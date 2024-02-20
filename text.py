@@ -63,7 +63,11 @@ LOG_LABEL = "Data Processing Log"
 
 DOWNLOAD_LABEL = "Download Enterosignatures"
 
-WEIGHT_PLOT_TITLE = "### Enterosignature Weights"
+WEIGHT_PLOT_TITLE = (
+    "### Relative Enterosignature Weights"
+    "\n"
+    "For this plot the H matrix has been scaled so each sample sums to 1."
+)
 MODELFIT_PLOT_TITLE = "### Model Fit Distribution"
 PCOA_PLOT_TITLE = ("### PCoA Ordination \n"
                    "Points are coloured by their Primary ES")
