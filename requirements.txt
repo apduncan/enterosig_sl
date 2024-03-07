@@ -1,8 +1,2 @@
-numpy
-pandas
 streamlit
-patchworklib
-plotnine
-tqdm
-plotly
-scikit-learn
+git+https://github.com/apduncan/cvanmf@package

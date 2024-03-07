@@ -11,3 +11,4 @@ The streamlit app is available at https://enterosignatures.streamlit.app
 
 There are some features yet to be added:
 * Option to upload hard mapping file in Streamlit
+* Option to skip plots in output if just want files
